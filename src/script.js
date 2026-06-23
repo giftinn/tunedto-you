@@ -11,7 +11,7 @@ let currentStation=null;
 
 const stations=[
 {
-f:88.7,
+f:92.0,
 html:`
 <div class="songCard">
 <img class="cover" src="src/pict.JPG">
@@ -38,7 +38,7 @@ html:`
 },
 
 {
-f:95.5,
+f:96.0,
 html:`
 
 <!-- FILM STRIP -->
@@ -98,7 +98,7 @@ html:`
 },
 
 {
-f:99.3,
+f:100.0,
 html:`
 
 <div class="letterStation">
@@ -200,7 +200,7 @@ pointer-events:none;
 },
 
 {
-f: 103.5,
+f: 104.0,
 html: `
 
 <div class="loveStation">
