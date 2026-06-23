@@ -14,10 +14,10 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.jpg">
+<img class="cover" src="src/pict.JPG">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>10.000 Hours</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Justin Bieber</div>
 
 <div class="player">
 <div class="topRow">
@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.JPG" class="filmPic">
+<img src="src/2.JPG" class="filmPic">
+<img src="src/3.JPG" class="filmPic">
+<img src="src/4.JPG" class="filmPic">
+<img src="src/5.JPG" class="filmPic">
+<img src="src/6.JPG" class="filmPic">
 
-<img src="src/1.jpg" class="filmPic">
-<img src="src/2.jpg" class="filmPic">
-<img src="src/3.jpg" class="filmPic">
-<img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/1.JPG" class="filmPic">
+<img src="src/2.JPG" class="filmPic">
+<img src="src/3.JPG" class="filmPic">
+<img src="src/4.JPG" class="filmPic">
+<img src="src/5.JPG" class="filmPic">
+<img src="src/6.JPG" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,16 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+To the keeper of my heart,  Jax Morsten
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+It's kind of funny how one month can feel so short and yet be filled with so many memories. A month ago, you were just someone i was getting to know. Now you're the person i want to tell everything to,
+the first person i think about when something good happens, and honestly, the person i look forward to talking to every day.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+If you were a radio station, you'd definitely be the one i leave playing in the background all day. You've become a part of my daily routine without me even realizing it, and now my days feel a little incomplete whenever you're not around.
 
-But like late night radio waves that stay playing even when the world sleeps.
+We’re only one month in, which is honestly just the beginning, but i'm really glad we're here, i already have so many moments i'd replay if i could. Thank you for all the conversations, the laughs, the random moments, and everything in between.
+I can't wait to see what the next tracks on our playlist sound like. Just like late night radio waves that stay playing even when the world sleeps.
 
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
